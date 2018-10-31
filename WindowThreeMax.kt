@@ -1,4 +1,4 @@
-package ArrayRVR
+
 /*
 Time Complexity is O(nk)
 where n is the number of elements and k is the window size.
