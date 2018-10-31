@@ -20,8 +20,7 @@ private fun findMax(array: IntArray, window: Int)
 
     for(i in 0..(array.size-1)-window+1)
     {
-        //println(array[i])
-
+     
         var window=window-1
         var j=i
 
